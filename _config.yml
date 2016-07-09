@@ -1,0 +1,28 @@
+name: TRIAL2
+favicon: null
+layout_spectrum: 0.4274108582176268
+typography_spectrum: 0.19552391464821994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.17848115600645542
+  lightness: 0.8101469674147666
+  saturation: 0.7811169398482889
+  rhythmicContrast: 0.684330137912184
+purpose: []
